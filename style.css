@@ -1,0 +1,13 @@
+table, th, td {
+    border:1px solid black; 
+    border-radius: 10px; 
+    color: black; 
+    background-color: skyblue; 
+} 
+th{
+    color: darkmagenta; 
+    background-color: blanchedalmond;
+} 
+.btn{
+
+}
